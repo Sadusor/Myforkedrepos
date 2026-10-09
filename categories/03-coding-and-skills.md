@@ -4,6 +4,7 @@ Verified GitHub forks; upstream descriptions may reflect marketing claims, not O
 
 ## Ranked by upstream GitHub stars (snapshot 2026-10-09)
 
+- **[prompts.chat](https://github.com/Sadusor/prompts.chat)** — ⭐ 172225 upstream stars; f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. *Upstream: f/prompts.chat.*
 - **[claude-code](https://github.com/Sadusor/claude-code)** — ⭐ 149803 upstream stars; Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex… *Upstream: anthropics/claude-code.*
 - **[odysseus](https://github.com/Sadusor/odysseus)** — ⭐ 92305 upstream stars; Self-hosted AI workspace.  *Upstream: odysseus-dev/odysseus.*
 - **[orca](https://github.com/Sadusor/orca)** — ⭐ 88265 upstream stars; Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime. *Upstream: stablyai/orca.*
@@ -19,4 +20,3 @@ Verified GitHub forks; upstream descriptions may reflect marketing claims, not O
 - **[mantis](https://github.com/Sadusor/mantis)** — ⭐ 2393 upstream stars; A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities. *Upstream: google/mantis.*
 - **[Rex](https://github.com/Sadusor/Rex)** — ⭐ 736 upstream stars; Rex, the friendly automation framework *Upstream: RexOps/Rex.*
 - **[autopolis](https://github.com/Sadusor/autopolis)** — ⭐ 13 upstream stars; Emergent AI city simulation — LLM agents build a living city in your browser. Three.js viewport, deterministic TS sim core, Ollama/DeepSeek agent pipeline. *Upstream: sleuthy-sloth/autopolis.*
-- **[prompts.chat](https://github.com/Sadusor/prompts.chat)** — ⭐ unavailable upstream stars; f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. *Upstream: f/prompts.chat.*
