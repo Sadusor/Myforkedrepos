@@ -20,3 +20,4 @@ Verified GitHub forks. Check upstream licenses and hardware requirements before 
 - **[unsloth](https://github.com/Sadusor/unsloth)** — Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more. *Upstream: unslothai/unsloth.*
 - **[voicebox](https://github.com/Sadusor/voicebox)** — The open-source AI voice studio. Clone, dictate, create. *Upstream: jamiepine/voicebox.*
 - **[whisper.cpp](https://github.com/Sadusor/whisper.cpp)** — Port of OpenAI's Whisper model in C/C++ *Upstream: ggml-org/whisper.cpp.*
+- **[DeepGEMM](https://github.com/Sadusor/DeepGEMM)** — GPU BLAS kernel library focused on clean, efficient matrix operations. *Upstream: deepseek-ai/DeepGEMM.*
