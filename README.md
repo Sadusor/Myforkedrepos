@@ -4,6 +4,10 @@ A categorized, linked inventory of repositories visible in the connected GitHub 
 
 **Inventory: 109 repositories — 83 verified forks and 26 original repositories.** Original projects are intentionally separated from forks. Private projects may require GitHub access to open.
 
+## Star rankings
+
+**[Browse all 83 forks by upstream GitHub stars](STARS_RANKING.md)** — five popularity tiers, highest first. Each category below is also sorted by upstream stars and displays the count for every fork. Counts are a snapshot from **2026-10-09**; popularity is not a security or quality rating. These are stars on the original upstream repositories, not on your copies.
+
 ## Categories
 
 - **[Memory, retrieval and knowledge](categories/01-memory-and-knowledge.md)** — 7 forks
