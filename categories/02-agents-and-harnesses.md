@@ -18,3 +18,4 @@ Verified GitHub forks. Summaries are derived from repository descriptions.
 - **[OpenManus](https://github.com/Sadusor/OpenManus)** — OpenManus is an open-source initiative to replicate the capabilities of the Manus AI agent, a state-of-the-art general-purpose AI developed by Monica, which excels in autonomously executing complex tasks. *Upstream: henryalps/OpenManus.*
 - **[prime-agent](https://github.com/Sadusor/prime-agent)** — A self-improving RLM agent for coding workflows and long-running autonomous tasks. *Upstream: PrimeIntellect-ai/prime-agent.*
 - **[software-agent-sdk](https://github.com/Sadusor/software-agent-sdk)** — A clean, modular SDK for building AI agents with OpenHands V1. *Upstream: OpenHands/software-agent-sdk.*
+- **[python-sdk](https://github.com/Sadusor/python-sdk)** — Python SDK for Agent Client Protocol (ACP) clients and agents. *Upstream: agentclientprotocol/python-sdk.*
