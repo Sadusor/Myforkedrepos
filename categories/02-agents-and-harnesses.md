@@ -2,14 +2,14 @@
 
 Verified GitHub forks. Summaries are derived from repository descriptions.
 
-- **[agency-agents](https://github.com/Sadusor/agency-agents)** — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert… *Upstream: msitarzewski/agency-agents.*
-- **[agent-client-protocol](https://github.com/Sadusor/agent-client-protocol)** —  A protocol for connecting any editor to any agent *Upstream: agentclientprotocol/agent-client-protocol.*
-- **[atomic-agent](https://github.com/Sadusor/atomic-agent)** — Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. *Upstream: AtomicBot-ai/atomic-agent.*
-- **[AutoHarness](https://github.com/Sadusor/AutoHarness)** — AutoHarness: Automated Harness Engineering for AI Agents *Upstream: aiming-lab/AutoHarness.*
-- **[awesome-harness-engineering](https://github.com/Sadusor/awesome-harness-engineering)** — Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. *Upstream: ai-boost/awesome-harness-engineering.*
-- **[butterclaw](https://github.com/Sadusor/butterclaw)** — Runtime security enforcement for autonomous AI agents. *Upstream: butterclaw-tech/butterclaw.*
-- **[deepseek-harness](https://github.com/Sadusor/deepseek-harness)** — DeepSeek Harness: Everything is a Plugin. *Upstream: deepseek-ai/deepseek-harness.*
-- **[hermes-agent](https://github.com/Sadusor/hermes-agent)** — The agent that grows with you *Upstream: NousResearch/hermes-agent.*
+- **[agency-agents](https://github.com/Sadusor/agency-agents)** — ⭐ 158420 upstream stars; A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert… *Upstream: msitarzewski/agency-agents.*
+- **[agent-client-protocol](https://github.com/Sadusor/agent-client-protocol)** — ⭐ 4394 upstream stars;  A protocol for connecting any editor to any agent *Upstream: agentclientprotocol/agent-client-protocol.*
+- **[atomic-agent](https://github.com/Sadusor/atomic-agent)** — ⭐ 3142 upstream stars; Atomic Agent is a local-first AI agent. Runs open-weight models on your own machine via llama.cpp. *Upstream: AtomicBot-ai/atomic-agent.*
+- **[AutoHarness](https://github.com/Sadusor/AutoHarness)** — ⭐ 434 upstream stars; AutoHarness: Automated Harness Engineering for AI Agents *Upstream: aiming-lab/AutoHarness.*
+- **[awesome-harness-engineering](https://github.com/Sadusor/awesome-harness-engineering)** — ⭐ 4766 upstream stars; Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. *Upstream: ai-boost/awesome-harness-engineering.*
+- **[butterclaw](https://github.com/Sadusor/butterclaw)** — ⭐ 8 upstream stars; Runtime security enforcement for autonomous AI agents. *Upstream: butterclaw-tech/butterclaw.*
+- **[deepseek-harness](https://github.com/Sadusor/deepseek-harness)** — ⭐ 246099 upstream stars; DeepSeek Harness: Everything is a Plugin. *Upstream: deepseek-ai/deepseek-harness.*
+- **[hermes-agent](https://github.com/Sadusor/hermes-agent)** — ⭐ 252165 upstream stars; The agent that grows with you *Upstream: NousResearch/hermes-agent.*
 - **[jev-harness](https://github.com/Sadusor/jev-harness)** — A custom coding harness for TypeSafe AI's Jev: an LLM proposes, Jev answers narrow questions, code decides, every step leaves a receipt. *Upstream: TypeSafeAI/jev-harness.*
 - **[nanobot](https://github.com/Sadusor/nanobot)** — Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps *Upstream: HKUDS/nanobot.*
 - **[OpenBot](https://github.com/Sadusor/OpenBot)** — Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI… *Upstream: CopilotKit/OpenBot.*
