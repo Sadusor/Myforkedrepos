@@ -2,14 +2,14 @@
 
 Verified GitHub forks; upstream descriptions may reflect marketing claims, not ORION qualification.
 
-- **[aider](https://github.com/Sadusor/aider)** — aider is AI pair programming in your terminal *Upstream: Aider-AI/aider.*
-- **[Anthropic-Cybersecurity-Skills](https://github.com/Sadusor/Anthropic-Cybersecurity-Skills)** — 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) ·… *Upstream: mukul975/Anthropic-Cybersecurity-Skills.*
-- **[autopolis](https://github.com/Sadusor/autopolis)** — Emergent AI city simulation — LLM agents build a living city in your browser. Three.js viewport, deterministic TS sim core, Ollama/DeepSeek agent pipeline. *Upstream: sleuthy-sloth/autopolis.*
-- **[claude-code](https://github.com/Sadusor/claude-code)** — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex… *Upstream: anthropics/claude-code.*
-- **[CLI-Anything](https://github.com/Sadusor/CLI-Anything)** — "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ *Upstream: HKUDS/CLI-Anything.*
-- **[free-claude-code](https://github.com/Sadusor/free-claude-code)** — Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with… *Upstream: Alishahryar1/free-claude-code.*
-- **[mantis](https://github.com/Sadusor/mantis)** — A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities. *Upstream: google/mantis.*
-- **[mimic](https://github.com/Sadusor/mimic)** — Intercept any app, then call it from Python like a library *Upstream: littledivy/mimic.*
+- **[aider](https://github.com/Sadusor/aider)** — ⭐ 49431 upstream stars; aider is AI pair programming in your terminal *Upstream: Aider-AI/aider.*
+- **[Anthropic-Cybersecurity-Skills](https://github.com/Sadusor/Anthropic-Cybersecurity-Skills)** — ⭐ 34006 upstream stars; 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) ·… *Upstream: mukul975/Anthropic-Cybersecurity-Skills.*
+- **[autopolis](https://github.com/Sadusor/autopolis)** — ⭐ 13 upstream stars; Emergent AI city simulation — LLM agents build a living city in your browser. Three.js viewport, deterministic TS sim core, Ollama/DeepSeek agent pipeline. *Upstream: sleuthy-sloth/autopolis.*
+- **[claude-code](https://github.com/Sadusor/claude-code)** — ⭐ 149803 upstream stars; Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex… *Upstream: anthropics/claude-code.*
+- **[CLI-Anything](https://github.com/Sadusor/CLI-Anything)** — ⭐ 51783 upstream stars; "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ *Upstream: HKUDS/CLI-Anything.*
+- **[free-claude-code](https://github.com/Sadusor/free-claude-code)** — ⭐ 57025 upstream stars; Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with… *Upstream: Alishahryar1/free-claude-code.*
+- **[mantis](https://github.com/Sadusor/mantis)** — ⭐ 2393 upstream stars; A modular, stack-agnostic toolkit for AI coding agents to autonomously find, reproduce, and patch vulnerabilities. *Upstream: google/mantis.*
+- **[mimic](https://github.com/Sadusor/mimic)** — ⭐ 2514 upstream stars; Intercept any app, then call it from Python like a library *Upstream: littledivy/mimic.*
 - **[Octop](https://github.com/Sadusor/Octop)** — A smarter, self-hosted AI assistant — multi-user, multi-agent. *Upstream: TencentCloud/Octop.*
 - **[odysseus](https://github.com/Sadusor/odysseus)** — Self-hosted AI workspace.  *Upstream: odysseus-dev/odysseus.*
 - **[openmuse](https://github.com/Sadusor/openmuse)** — A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI. *Upstream: CopilotKit/openmuse.*
